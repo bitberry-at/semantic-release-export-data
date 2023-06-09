@@ -1,6 +1,6 @@
 {
-  "name": "semantic-release-export-data",
-  "version": "0.0.0-development",
+  "name": "semantic-release-export-data-forked",
+  "version": "0.0.1",
   "description": "semantic-release plugin to export variables like the next release version",
   "main": "index.js",
   "files": [],
