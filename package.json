@@ -1,6 +1,6 @@
 {
-  "name": "semantic-release-export-data-forked",
-  "version": "0.0.1",
+  "name": "@bitberry/semantic-release-export-data",
+  "version": "1.0.0",
   "description": "semantic-release plugin to export variables like the next release version",
   "main": "index.js",
   "files": [],
@@ -12,6 +12,9 @@
   "bugs": "https://github.com/felipecrs/semantic-release-export-data/issues",
   "homepage": "https://github.com/felipecrs/semantic-release-export-data#readme",
   "author": "Felipe Santos <felipecassiors@gmail.com>",
+  "contributors": [
+    "Bitberry GmbH <it@bitberry.io>"
+  ],
   "peerDependencies": {
     "semantic-release": ">=18"
   },
